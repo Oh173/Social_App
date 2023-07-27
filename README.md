@@ -1,4 +1,4 @@
-# e_commerce_app
+# Social_app
 
 A new Flutter project.
 
